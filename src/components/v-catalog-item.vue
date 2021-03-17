@@ -6,7 +6,7 @@
       <button 
             class="v-catalog-item__add_to_cart_btn btn" 
             @click.prevent="sendDataToParent"
-            >Add to cart</button>
+            > Add to cart </button>
   </div>
 </template>
 
